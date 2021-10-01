@@ -1,13 +1,13 @@
 #. type: Content of: <book><bookinfo><title>
 #: manual.xml:16
 msgid "Building Debian Packages with git-buildpackage"
-msgstr ""
+msgstr "Debian-Pakete mit git-buildpackage bauen"
 
 #. type: Content of: <book><bookinfo><address>
 #: manual.xml:18
 #, no-wrap
 msgid "&dhemail;"
-msgstr ""
+msgstr "&dhemail;"
 
 #. type: Content of: <book><bookinfo>
 #: manual.xml:17
@@ -15,21 +15,23 @@ msgid ""
 "<author>&dhfirstname; &dhsurname;</author> <placeholder type=\"address\" id="
 "\"0\"/>"
 msgstr ""
+"<author>&dhfirstname; &dhsurname;</author> <placeholder type=\"address\" id="
+"\"0\"/>"
 
 #. type: Content of: <book><bookinfo><subtitle>
 #: manual.xml:19
 msgid "Version: &gbp-version;"
-msgstr ""
+msgstr "Version: &gbp-version;"
 
 #. type: Content of: <book><appendix><title>
 #: manual.xml:31
 msgid "Command Reference"
-msgstr ""
+msgstr "Komandoreferenz"
 
 #. type: Content of: <book><appendix><title>
 #: manual.xml:55
 msgid "Copyright"
-msgstr ""
+msgstr "Copyright"
 
 #. type: Content of: <para>
 #: copyright.xml:2
@@ -37,6 +39,8 @@ msgid ""
 "git-buildpackage, all associated scripts and programs, this manual, and all "
 "build scripts are Copyright &copy; 2006-2017 Guido Gnther."
 msgstr ""
+"git-buildpackage, alle zugehörigen Skripte und Programme, dieses Handbuch und alle "
+"Bauskripte are Copyright &copy; 2006-2017 Guido Günther."
 
 #. type: Content of: <para>
 #: copyright.xml:6
